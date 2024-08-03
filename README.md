@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prerana Shimpi</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
-<img align = "right" alt="coding" width= "350" src= https://www.bing.com/images/search?view=detailV2&ccid=2CS1EIxY&id=C298DBA5CCC1255455ED4883E2ED8BA7801F8B27&thid=OIP.2CS1EIxYnK4Q5Hi4YNQeTwHaFj&mediaurl=https%3a%2f%2fmedia.tenor.com%2fPP9v7VIs6R4AAAAd%2fscaler-create-impact.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d824b5108c589cae10e478b860d41e4f%3frik%3dJ4sfgKeL7eKDSA%26pid%3dImgRaw%26r%3d0&exph=480&expw=640&q=Animated+Coding+Girl+gif&simid=607991503940682663&FORM=IRPRST&ck=D9500062D52D8D3431AC88775672A68B&selectedIndex=5&itb=0"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preranashimpi&label=Profile%20views&color=0e75b6&style=flat" alt="preranashimpi" /> </p>
 
 - 🔭 I’m currently working on **Python (Game)**
